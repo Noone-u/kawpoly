@@ -59,6 +59,4 @@ Certainly! Here's a creative description for a GitHub repository named **"Cowpol
 **License:**
 This project is licensed under the MIT License
 
----
-
-Feel free to customize this description further to match the specific features and vision of your "Cowpoly" game! 
+--- 
